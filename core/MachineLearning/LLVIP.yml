@@ -9,15 +9,15 @@ image:
 temporal:
 spatial: 
 access_level: 
-copyrights:
+copyrights: This LLVIP Dataset is made freely available to academic and non-academic entities for non-commercial purposes such as academic research, teaching, scientific publications, or personal experimentation.
 accrual_periodicity: 
 specification:
-data_quality: 
+data_quality: 1280x1044
 data_dictionary: 
 language: en
-license: 
+license: https://github.com/bupt-ai-cz/LLVIP/blob/main/Term%20of%20Use%20and%20License.md
 publisher:
-organization:
+organization: Beijing University of Posts and Telecommunications
 issued_time: 
 sources:
 references:
